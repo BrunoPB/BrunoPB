@@ -1,4 +1,8 @@
-### Hi there 👋
+## Bruno Pena Baêta
+
+👋 Hello there! My name is Bruno and I'm a computer scientist.
+
+- 🔭 Passionate about computer science, I'm currently working on a Fan-Made Pokémon game called Pokémon Brasil Fan Game. It is a Pokémon Game that take it's place in Brazil, my home country.
 
 <!--
 **BrunoPB/BrunoPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
