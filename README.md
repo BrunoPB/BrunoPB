@@ -4,7 +4,7 @@
 
 - 🔭 Passionate about computer science
 - 🗺 Creator of the Fan-Made Pokemon game Pokemon Brasil
-- 🔎 Currently working on a compilers research in UFMG for Google
+- 🔎 Currently working on a compilers research in UFMG and PUC Minas for Google and FAPEMIG
 - 🧱 Building the Godeck mobile game
 
 ## Languages
