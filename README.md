@@ -4,7 +4,8 @@
 
 - 🔭 Passionate about computer science
 - 🗺 Creator of the Fan-Made Pokemon game Pokemon Brasil
-- 🔎 Currently working on a compilers research in UFMG and PUC Minas for Google and FAPEMIG
+- 🔎 Worked on a compilers research in UFMG and PUC Minas for Google and FAPEMIG
+- 💼 IT Manager at Minas Brisa
 
 ## Languages
 
