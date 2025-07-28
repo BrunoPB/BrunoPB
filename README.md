@@ -7,6 +7,10 @@
 - 🔎 Worked on a compilers research in UFMG and PUC Minas for Google and FAPEMIG
 - 💼 IT Manager at Minas Brisa
 
+## Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunopb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## Reach me
 
 <a href = "mailto:brunopenabaeta@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
